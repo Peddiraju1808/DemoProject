@@ -1,2 +1,0 @@
-class second_page {
-}
